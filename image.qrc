@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/gtk-open.png</file>
+        <file>images/gtk-cancel.png</file>
+        <file>images/gtk-properties.png</file>
+    </qresource>
+</RCC>
